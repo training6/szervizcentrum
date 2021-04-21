@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b6aed1b6.chunk.css",
+    "main.js": "/static/js/main.8a58ce08.chunk.js",
+    "main.js.map": "/static/js/main.8a58ce08.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.50e2290d.js",
+    "runtime-main.js.map": "/static/js/runtime-main.50e2290d.js.map",
+    "static/js/2.5cc58f46.chunk.js": "/static/js/2.5cc58f46.chunk.js",
+    "static/js/2.5cc58f46.chunk.js.map": "/static/js/2.5cc58f46.chunk.js.map",
+    "static/js/3.20178bbc.chunk.js": "/static/js/3.20178bbc.chunk.js",
+    "static/js/3.20178bbc.chunk.js.map": "/static/js/3.20178bbc.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.b6aed1b6.chunk.css.map": "/static/css/main.b6aed1b6.chunk.css.map",
+    "static/js/2.5cc58f46.chunk.js.LICENSE.txt": "/static/js/2.5cc58f46.chunk.js.LICENSE.txt",
+    "static/media/LED_TVs.ac2acd9f.png": "/static/media/LED_TVs.ac2acd9f.png",
+    "static/media/lcd-brands.jpg": "/static/media/lcd-brands.9244f41f.jpg",
+    "static/media/plasma-tv-oled.5924f5ae.jpg": "/static/media/plasma-tv-oled.5924f5ae.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.50e2290d.js",
+    "static/js/2.5cc58f46.chunk.js",
+    "static/css/main.b6aed1b6.chunk.css",
+    "static/js/main.8a58ce08.chunk.js"
+  ]
+}
